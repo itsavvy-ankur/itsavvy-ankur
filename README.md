@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsavvy-ankur
+- 👋 Hi, I’m Ankur Saxena
 - 👀 I’m interested in Enterprise Integration Patterns, API's and Big Data
 - 🌱 I’m currently learning Data Architecture
 - 💞️ I’m looking to collaborate on Google Cloud platform, K8S and Open Source
